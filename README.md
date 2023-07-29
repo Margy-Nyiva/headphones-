@@ -18,6 +18,18 @@ mobile:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ![image](https://github.com/Margy-Nyiva/headphones-/assets/122882759/d1915d41-20eb-4a14-b395-04425b224592)
 
 
